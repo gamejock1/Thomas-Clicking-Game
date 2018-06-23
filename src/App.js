@@ -7,7 +7,7 @@ const wins = 0;
 const losses = 0;
 
 const clickHandler = () => {
-  this.setState({clicked: true})
+  // this.setState({clicked: true})
   console.log(this.state);
 }
 
